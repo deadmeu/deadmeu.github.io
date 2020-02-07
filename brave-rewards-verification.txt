@@ -1,0 +1,8 @@
+---
+layout: none
+permalink: .well-known/brave-payments-verification.txt
+---
+This is a Brave Rewards publisher verification file.
+
+Domain: deadm.eu
+Token: 59a9018da7ac4267fc53862b02d7d0ac340e928db1dfeaba92460a5628bcf00d
